@@ -1,2 +1,2 @@
 print("hii hello world ")
-print("BNMIT college")
+print("BNMIT ")
